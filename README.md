@@ -17,5 +17,6 @@ You will need to:
     - Note that Google Cloud gives you `300$` in credits, allowing you to use more resources. Since you will only need to run the VM while you work on it and during the labs, this is way more than enough. Depending on your tech stack choices you may or may not need more than the `1 GB` of RAM available to you in the free tier instances.
     - You must use a remote server that you can SSH into. You are not allowed to use local VMs and you are not allowed to use your own home server.
 - Add at least `3` validation rules. They can be spread across multiple entities.
+- Continue tracking your tasks on Trello (or equivalent). Also track the estimated time (write it before starting the task) and the actual time to completion (write it after finishing the task). Reference the tasks numbers in your commit messages.
 
 Recall that raw SQL queries are still not allowed.
